@@ -25,11 +25,11 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="4"
-     inkscape:cx="166.3533"
-     inkscape:cy="83.442873"
+     inkscape:zoom="2"
+     inkscape:cx="223.08432"
+     inkscape:cy="132.79361"
      inkscape:document-units="in"
-     inkscape:current-layer="g4373"
+     inkscape:current-layer="g3427"
      showgrid="false"
      showguides="true"
      inkscape:guide-bbox="true"
@@ -67,7 +67,7 @@
       <g
          id="g3427">
         <rect
-           style="fill:none;stroke:#000000;stroke-width:0.13206619"
+           style="fill:none;stroke:#ff0000;stroke-width:0.13206619"
            id="rect3501-2-4"
            width="394.74298"
            height="212.49295"
@@ -221,10 +221,11 @@
                style="font-style:italic;font-size:20.274086px">a</tspan></text>
           <g
              transform="matrix(1.0024761,0,0,1.0024761,-0.53768411,-1.6892857)"
-             id="g4417">
+             id="g4417"
+             style="stroke:#000000;stroke-width:0.33666642">
             <text
                xml:space="preserve"
-               style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:33.61037445px;line-height:125%;font-family:Terminal_Hex;-inkscape-font-specification:Terminal_Hex;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#2b7385;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+               style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:33.61037445px;line-height:125%;font-family:Terminal_Hex;-inkscape-font-specification:Terminal_Hex;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#2b7385;fill-opacity:1;stroke:#000000;stroke-width:0.33666642;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
                x="-153.19226"
                y="95.237267"
                id="text3518"
@@ -237,12 +238,12 @@
                  x="-153.19226"
                  y="136.4019"
                  id="tspan3524"
-                 style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:33.61037445px;line-height:125%;font-family:Georgia;-inkscape-font-specification:'Georgia, Bold';text-align:justify;writing-mode:lr-tb;text-anchor:start;fill:#2b7385;fill-opacity:1"><tspan
-   style="fill:#000000"
+                 style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:33.61037445px;line-height:125%;font-family:Georgia;-inkscape-font-specification:'Georgia, Bold';text-align:justify;writing-mode:lr-tb;text-anchor:start;fill:#2b7385;fill-opacity:1;stroke:#000000;stroke-width:0.33666642"><tspan
+   style="fill:#000000;stroke:#000000;stroke-width:0.33666642"
    id="tspan4415">I M</tspan> STEVEN</tspan></text>
             <text
                xml:space="preserve"
-               style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:33.75000381px;line-height:125%;font-family:NSimSun;-inkscape-font-specification:NSimSun;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+               style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:33.75000381px;line-height:125%;font-family:NSimSun;-inkscape-font-specification:NSimSun;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.33666642;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
                x="-137.95192"
                y="139.50847"
                id="text4411"
@@ -254,12 +255,14 @@
           </g>
           <g
              id="g4361-7"
-             transform="matrix(1.0043345,0,0,1.0043345,-269.33525,79.329708)">
+             transform="matrix(1.0043345,0,0,1.0043345,-269.33525,79.329708)"
+             style="stroke:#000000;stroke-width:0.33604346">
             <g
-               id="g4367-1">
+               id="g4367-1"
+               style="stroke:#000000;stroke-width:0.33604346">
               <text
                  xml:space="preserve"
-                 style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:41.00339127px;line-height:125%;font-family:Georgia;-inkscape-font-specification:Georgia;letter-spacing:0px;word-spacing:0px;fill:#2b7385;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+                 style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:41.00339127px;line-height:125%;font-family:Georgia;-inkscape-font-specification:Georgia;letter-spacing:0px;word-spacing:0px;fill:#2b7385;fill-opacity:1;stroke:#000000;stroke-width:0.33604346;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
                  x="359.4603"
                  y="152.22253"
                  id="text4351-8"
@@ -269,15 +272,16 @@
                    x="359.4603"
                    y="152.22253" /></text>
               <g
-                 id="g4528">
+                 id="g4528"
+                 style="stroke:#000000;stroke-width:0.33604346">
                 <text
                    xml:space="preserve"
-                   style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:36.58739853px;line-height:125%;font-family:Georgia;-inkscape-font-specification:Georgia;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+                   style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:36.58739853px;line-height:125%;font-family:Georgia;-inkscape-font-specification:Georgia;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.33604346;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
                    x="143.19119"
                    y="165.96962"
                    id="text3591-3"
                    sodipodi:linespacing="125%"><tspan
-                     style="font-weight:bold;fill:#2b7385;fill-opacity:1"
+                     style="font-weight:bold;fill:#2b7385;fill-opacity:1;stroke:#000000;stroke-width:0.33604346"
                      sodipodi:role="line"
                      id="tspan3593-7"
                      x="143.19119"
@@ -287,9 +291,9 @@
                    id="text4524"
                    y="166.70116"
                    x="116.80145"
-                   style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:38.06208038px;line-height:125%;font-family:Georgia;-inkscape-font-specification:Georgia;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+                   style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:38.06208038px;line-height:125%;font-family:Georgia;-inkscape-font-specification:Georgia;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.33604346;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
                    xml:space="preserve"><tspan
-                     style="font-weight:bold;fill:#2b7385;fill-opacity:1"
+                     style="font-weight:bold;fill:#2b7385;fill-opacity:1;stroke:#000000;stroke-width:0.33604346"
                      y="166.70116"
                      x="116.80145"
                      id="tspan4526"
@@ -364,6 +368,13 @@
             </g>
           </g>
         </g>
+        <rect
+           style="color:#000000;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;fill:none;fill-opacity:1;fill-rule:nonzero;stroke:#ff0000;stroke-width:0.13500002;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate"
+           id="rect4597"
+           width="240.67931"
+           height="422.92932"
+           x="-167.09993"
+           y="-124.68671" />
       </g>
     </g>
   </g>
